@@ -38,7 +38,7 @@
       ```
 
    <details> 
-     <summary>What it should look like</summary>
+     <summary>Answer</summary>
        
     ![image](https://github.com/abigailramsoe/SherlockHolmes/assets/28560412/82a8d0b8-6ede-4645-aeeb-f3b90914ec35)
     </details>  
