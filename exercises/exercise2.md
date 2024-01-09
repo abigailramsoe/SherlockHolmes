@@ -105,8 +105,14 @@
      <summary>Code</summary>
         
       ```
-    cat sherlock.trimmed.fastq | awk 'NR%4==2{sum+=length($0)}END{print sum/(NR/4)}
-    cat sherlock.holmes.fastq | awk 'NR%4==2{sum+=length($0)}END{print sum/(NR/4)}
+    cat sherlock.trimmed.fastq | awk 'NR%4==2{sum+=length($0)}END{print sum/(NR/4)}'
+    cat holmes.trimmed.fastq | awk 'NR%4==2{sum+=length($0)}END{print sum/(NR/4)}'
 
       ```
+      </details>
+      <details> 
+      <summary>Answer</summary>
+      Sherlock: 59.1209
+      
+      Holmes: 89.9716
       </details>
