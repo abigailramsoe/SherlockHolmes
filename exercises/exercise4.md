@@ -3,8 +3,8 @@
     <summary>Exact code</summary>
       
     ```
-    samtools view -F4 -q30 sherlock.bam -b > sherlock.filtered.bam 
-    samtools view -F4 -q30 holmes.bam -b > holmes.filtered.bam       
+    samtools view -F4 -q30 sherlock.sorted.bam -b > sherlock.filtered.bam 
+    samtools view -F4 -q30 holmes.sorted.bam -b > holmes.filtered.bam       
     ```
      </details>
 
