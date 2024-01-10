@@ -19,11 +19,24 @@
     ```
      </details>   
 
-3. Look at the plots created using ```evince```.
+3. Look at the plots created using ```okular```.
     <details> 
     <summary>Exact code</summary>
       
     ```
-   evince results_sherlock.filtered.rmdup/Length_plot.pdf
+   okular results_sherlock.filtered.rmdup/Length_plot.pdf
+   okular results_sherlock.filtered.rmdup/Length_plot.pdf
+   okular results_holmes.filtered.rmdup/Fragmisincorporation_plot.pdf
+   okular results_sherlock.filtered.rmdup/Fragmisincorporation_plot.pdf
     ```
+   </details>   
+
+    <details> 
+    <summary>Plots</summary>
+       
+   ![image](https://github.com/abigailramsoe/SherlockHolmes/assets/28560412/738edd02-54b1-44c9-8c54-130af1704d14)
+
+
+      ![image](https://github.com/abigailramsoe/SherlockHolmes/assets/28560412/e82dec2e-1a01-4525-ab42-d09edc1f768a)
+
    </details>   
